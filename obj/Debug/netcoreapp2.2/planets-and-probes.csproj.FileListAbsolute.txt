@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp2.2/planets-and-probes.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp2.2/planets-and-probes.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp2.2/planets-and-probes.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp2.2/planets-and-probes.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/bin/Debug/netcoreapp2.2/planets-and-probes.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp2.2/planets-and-probes.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp2.2/planets-and-probes.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp2.2/planets-and-probes.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp2.2/planets-and-probes.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp2.2/planets-and-probes.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planets-and-probes/obj/Debug/netcoreapp2.2/planets-and-probes.pdb
